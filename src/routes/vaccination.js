@@ -1,13 +1,14 @@
 import React from 'react';
-
 import Navbar from '../components/Navbar';
-import Vaccination from '../components/Vaccination/centerCards';
+import FormCard from '../components/Vaccination/FormCard';
 
-export default function vaccination(){
+function Vaccination(){
+    
     return (
         <div className=''>
             <Navbar />
-            <Vaccination />
+            <FormCard />
         </div>
     );
 }
+export default Vaccination;

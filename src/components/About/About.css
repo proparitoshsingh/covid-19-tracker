@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  font-family: 'Poppins';
+  margin: 0;
+  width: 100%;
+  background-image: url("https://i.pinimg.com/736x/f4/ac/6a/f4ac6aac3afb587f6cae04155656fca3.jpg");
+}
+
+.up, .pp {
+  font-size: larger;
+  font-weight: 350;
+  width: 40vw;
+}
+
+.uh2 {
+  font-size: xx-large;
+}
+.cuntainer {
+  width: auto;
+  height: 100vh;
+}
+
+.covid-pic {
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  transform: scaleX(-1);
+  border-radius: 2%;
+}
+
+.inner-cuntainer {
+  display: flex;
+  height: 80.06%;
+  width: auto;
+  align-items: center;
+  padding-right: 5%;
+  padding-left: 5%;
+  background-image: linear-gradient(to right, white 40%, rgba(255, 255, 255, 0) 75%);
+  border-radius: 2%;
+}
+
+.inner-cuntainer.second {
+  background-image: linear-gradient(to right, white 40%, rgba(255, 255, 255, .5));
+}
+
+.inner-cuntainer.third {
+  background-color: white;
+}
+
+.pp {
+  width: 80vw !important;
+}
+
+.vitb-pic {
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  height: 80vh;
+  border-radius: 2%;
+}
+
+.pic-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.row1.center {
+  justify-content: center;
+}
+
+.prof-pic {
+  border-radius: 50%;
+  width: 15%;
+  margin: 2% 15% 2% 20%;
+  transition: all .2s ease-in-out;
+}
+
+.prof-pic:hover {
+  transform: scale(1.3);
+}

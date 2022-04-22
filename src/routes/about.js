@@ -1,6 +1,6 @@
 import React from 'react';
-import About from '../components/About/About';
 import Navbar from '../components/Navbar';
+import About from '../components/About/About';
 
 function about() {
   return (
@@ -11,4 +11,4 @@ function about() {
   )
 }
 
-export default about
+export default about;
