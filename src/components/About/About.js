@@ -5,7 +5,7 @@ import joseph from './images/joseph.jpg';
 import madhur from './images/madhur.jpg';
 import paritosh from './images/paritosh.jpg';
 import rand1 from './images/rand1.jpg';
-import rand2 from './images/rand2.jpg';
+import rand2 from './images/rand2.jpeg';
 import vitb from './images/vitb.jpg';
 
 
