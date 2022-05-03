@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/covid-19-tracker/static/css/main.4e3092c1.chunk.css",
-    "main.js": "/covid-19-tracker/static/js/main.03d5330b.chunk.js",
-    "main.js.map": "/covid-19-tracker/static/js/main.03d5330b.chunk.js.map",
+    "main.js": "/covid-19-tracker/static/js/main.7ddaaf7a.chunk.js",
+    "main.js.map": "/covid-19-tracker/static/js/main.7ddaaf7a.chunk.js.map",
     "runtime-main.js": "/covid-19-tracker/static/js/runtime-main.960a8408.js",
     "runtime-main.js.map": "/covid-19-tracker/static/js/runtime-main.960a8408.js.map",
     "static/css/2.e7f7bc80.chunk.css": "/covid-19-tracker/static/css/2.e7f7bc80.chunk.css",
-    "static/js/2.effc7ded.chunk.js": "/covid-19-tracker/static/js/2.effc7ded.chunk.js",
-    "static/js/2.effc7ded.chunk.js.map": "/covid-19-tracker/static/js/2.effc7ded.chunk.js.map",
+    "static/js/2.70db78dd.chunk.js": "/covid-19-tracker/static/js/2.70db78dd.chunk.js",
+    "static/js/2.70db78dd.chunk.js.map": "/covid-19-tracker/static/js/2.70db78dd.chunk.js.map",
     "index.html": "/covid-19-tracker/index.html",
-    "precache-manifest.08664e6dcb2d0a9e1af19aaf4af0b2b1.js": "/covid-19-tracker/precache-manifest.08664e6dcb2d0a9e1af19aaf4af0b2b1.js",
+    "precache-manifest.dcc4442f857609a3c95b9b5e2822dfc8.js": "/covid-19-tracker/precache-manifest.dcc4442f857609a3c95b9b5e2822dfc8.js",
     "service-worker.js": "/covid-19-tracker/service-worker.js",
     "static/css/2.e7f7bc80.chunk.css.map": "/covid-19-tracker/static/css/2.e7f7bc80.chunk.css.map",
     "static/css/main.4e3092c1.chunk.css.map": "/covid-19-tracker/static/css/main.4e3092c1.chunk.css.map",
-    "static/js/2.effc7ded.chunk.js.LICENSE.txt": "/covid-19-tracker/static/js/2.effc7ded.chunk.js.LICENSE.txt",
+    "static/js/2.70db78dd.chunk.js.LICENSE.txt": "/covid-19-tracker/static/js/2.70db78dd.chunk.js.LICENSE.txt",
     "static/media/covid.jpg": "/covid-19-tracker/static/media/covid.7bc8b7ff.jpg",
     "static/media/joseph.jpg": "/covid-19-tracker/static/media/joseph.e6d6e594.jpg",
     "static/media/madhur.jpg": "/covid-19-tracker/static/media/madhur.8c9b519f.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.960a8408.js",
     "static/css/2.e7f7bc80.chunk.css",
-    "static/js/2.effc7ded.chunk.js",
+    "static/js/2.70db78dd.chunk.js",
     "static/css/main.4e3092c1.chunk.css",
-    "static/js/main.03d5330b.chunk.js"
+    "static/js/main.7ddaaf7a.chunk.js"
   ]
 }
